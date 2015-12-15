@@ -1,1 +1,1 @@
-# otto-mariadb
+# otto-practice
